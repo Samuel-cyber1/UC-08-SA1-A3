@@ -1,0 +1,21 @@
+body{
+   
+    width: 996px;
+    height: 616px;
+    margin-right: auto;
+    margin-left: auto;
+}
+    
+p{
+    font-family: sans-serif;
+}
+
+section{
+   display: grid;
+   grid-template-columns: auto auto auto;
+   grid-gap: 30px;
+   justify-content: center;
+}
+#boxM{
+    border:2px solid rgb(112, 110, 109);
+}
